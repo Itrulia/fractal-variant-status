@@ -3,7 +3,7 @@
 
 This plugin allows you to tag variants of components if they should be used/can be used or hide work in progress stuff in production releases.
 
-Looking for status labels on components? Then [@itrulia/fractal-component-status](https://github.com/Itrulia/fractal-variant-status) is what you want :)
+Looking for status labels on components? Then [@itrulia/fractal-component-status](https://github.com/Itrulia/fractal-component-status) is what you want :)
 
 > Please note that this plugin only works for fractal v2!
 
@@ -101,7 +101,7 @@ To do this you will need to do the following steps:
 
 ## Configuration
 
-**Configs are compatible with [@itrulia/fractal-component-status](https://github.com/Itrulia/fractal-variant-status)**
+**Configs are compatible with [@itrulia/fractal-component-status](https://github.com/Itrulia/fractal-component-status)**
 
 ### Statuses
 Type: `Array<Status>`
