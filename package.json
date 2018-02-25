@@ -1,0 +1,31 @@
+{
+  "name": "@itrulia/fractal-variant-status",
+  "version": "0.0.0",
+  "description": "Fractal plugin that allows you to set a status on the components variants and filtering them out if needed!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itrulia/fractal-variant-status.git"
+  },
+  "keywords": [
+    "fractal",
+    "status"
+  ],
+  "author": "Karl Merkli <karlmerkli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Itrulia/fractal-variant-status/issues"
+  },
+  "homepage": "https://github.com/Itrulia/fractal-variant-status#readme",
+  "peerDependencies": {
+    "@frctl/fractal": "^2.0.0-beta.0"
+  },
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "lodash": "^4.17.5",
+    "ramda": "^0.25.0"
+  }
+}
