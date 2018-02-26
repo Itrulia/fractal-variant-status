@@ -1,6 +1,6 @@
 {
   "name": "@itrulia/fractal-variant-status",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fractal plugin that allows you to set a status on the components variants and filtering them out if needed!",
   "main": "index.js",
   "scripts": {
